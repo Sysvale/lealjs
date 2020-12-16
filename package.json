@@ -1,0 +1,19 @@
+{
+  "name": "lealjs",
+  "version": "1.0.0",
+  "description": "A MVC JS framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sysvale/lealjs.git"
+  },
+  "author": "Denisson Leal, Gabriel Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sysvale/lealjs/issues"
+  },
+  "homepage": "https://github.com/Sysvale/lealjs#readme"
+}
